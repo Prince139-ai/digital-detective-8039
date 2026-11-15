@@ -1,0 +1,2 @@
+line 1 practicing terminal commands
+line 2 adding second line without deleting first
