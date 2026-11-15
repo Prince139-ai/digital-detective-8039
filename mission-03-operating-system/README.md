@@ -26,7 +26,7 @@ uname -a, whoami, df -h, ps, ls -l
 - two examples of processes: python3 and zsh
 
 ### task 3.3 - understand paths and permissions
-- absolute path gives full location from root folder like /Users/shivamkumar/digital-detective-8039
+- absolute path gives full location from root folder like /Users/[redacted]/digital-detective-8039
 - relative path gives location from current folder like mission-01-computer-basics/README.md
 - permission letters: r means read, w means write, x means execute
 in practice folder, file permissions were rw-r--r-- so owner can read and write the file
