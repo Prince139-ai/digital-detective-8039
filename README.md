@@ -21,3 +21,8 @@ mission index:
 - [mission 6 git and github](mission-06-git-github/README.md)
 - [mission 7 networking](mission-07-networking/README.md)
 - [mission 8 final report](mission-08-final-report/README.md)
+
+## my learning
+- learned how data moves from input to processing, output, and storage in the ipos cycle
+- practiced terminal commands like pwd, ls, cd, mkdir, and using pipes to connect commands
+- learned how to convert numbers between decimal, binary, and hexadecimal by hand and with python
